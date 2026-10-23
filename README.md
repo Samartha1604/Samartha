@@ -102,9 +102,9 @@ const samartha = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Samartha1604&amp;show_icons=true&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;icon_color=22D3EE&amp;text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Samartha1604&amp;show_icons=true&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=7C3AED&amp;icon_color=0891B2&amp;text_color=334155" />
-  <img width="49%" alt="Samartha's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Samartha1604&amp;show_icons=true&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;icon_color=22D3EE&amp;text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Samartha1604&amp;show_icons=true&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;icon_color=22D3EE&amp;text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Samartha1604&amp;show_icons=true&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=7C3AED&amp;icon_color=0891B2&amp;text_color=334155" />
+  <img width="49%" alt="Samartha's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Samartha1604&amp;show_icons=true&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;icon_color=22D3EE&amp;text_color=C9D1D9" />
 </picture>
 
 <picture>
