@@ -108,17 +108,9 @@ const samartha = {
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Samartha1604&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Samartha1604&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=7C3AED&amp;text_color=334155" />
-  <img width="49%" alt="Samartha's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samartha1604&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;text_color=C9D1D9" />
-</picture>
-
-<br/>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Samartha1604&amp;hide_border=true&amp;background=0D1117&amp;ring=8B5CF6&amp;fire=22D3EE&amp;currStreakLabel=8B5CF6&amp;sideLabels=C9D1D9&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;dates=64748B" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Samartha1604&amp;hide_border=true&amp;background=FFFFFF&amp;ring=7C3AED&amp;fire=0891B2&amp;currStreakLabel=7C3AED&amp;sideLabels=334155&amp;currStreakNum=0F172A&amp;sideNums=0F172A&amp;dates=64748B" />
-  <img width="60%" alt="Samartha's GitHub streak" src="https://streak-stats.demolab.com?user=Samartha1604&amp;hide_border=true&amp;background=0D1117&amp;ring=8B5CF6&amp;fire=22D3EE&amp;currStreakLabel=8B5CF6&amp;sideLabels=C9D1D9&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;dates=64748B" />
+  <img width="49%" alt="Samartha's GitHub streak" src="https://streak-stats.demolab.com?user=Samartha1604&amp;hide_border=true&amp;background=0D1117&amp;ring=8B5CF6&amp;fire=22D3EE&amp;currStreakLabel=8B5CF6&amp;sideLabels=C9D1D9&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;dates=64748B" />
 </picture>
 
 </div>
