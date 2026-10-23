@@ -8,7 +8,7 @@
 <img src="./assets/banner.svg" alt="Samartha Padwekar — B.E. Computer Science and Engineering" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=900&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=64&amp;lines=B.E.+CSE+Student+%F0%9F%8E%93;Full-Stack+Developer+in+the+making+%F0%9F%9A%80;DSA+%26+Problem+Solving+Enthusiast+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%B1;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing animation: B.E. CSE Student, Full-Stack Developer in the making, DSA and Problem Solving Enthusiast, Open Source Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=900&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=64&amp;lines=B.E.+CSE+Student+%F0%9F%8E%93;Full-Stack+Developer+in+the+making+%F0%9F%9A%80;DSA+%26+Problem+Solving+Enthusiast+%F0%9F%A7%A0;Open+Source+Enthusiast+%F0%9F%8C%B1;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing animation: B.E. CSE Student, Full-Stack Developer in the making, DSA and Problem Solving Enthusiast, Open Source Enthusiast" />
 </a>
 
 <br/>
